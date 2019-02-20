@@ -35,11 +35,12 @@ def index():
 
     return render_template('index.html', context=context)
 
+load_model()
 
-if __name__ == "__main__":
-    load_model()
-    app.run(host=os.getenv('IP', '0.0.0.0'), 
-            port=int(os.getenv('PORT', 8080)))
-    app.run(debug=True)
+# if __name__ == "__main__":
+    
+#     app.run(host=os.getenv('IP', '0.0.0.0'), 
+#             port=int(os.getenv('PORT', 8080)))
+#     app.run(debug=True)
 
 

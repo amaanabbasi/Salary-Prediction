@@ -3,7 +3,7 @@
 * Takes in three user inputs (Experience, Test and Interview score).
 * Outputs a prediction about the user's salary (Linear Regression).
 
-[live](https://salarypredictionapp.herokuapp.com/)
+## [live](https://salarypredictionapp.herokuapp.com/)
 
 # Getting started
 

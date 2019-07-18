@@ -23,7 +23,7 @@
 
 `python3 app.py`
 
-src -> Source code for the live webapplication
-machine-learning-model.ipynb -> contains the code for data cleaning and training.
+* src -> Source code for the live webapplication
+* machine-learning-model.ipynb -> contains the code for data cleaning and training.
 
 
